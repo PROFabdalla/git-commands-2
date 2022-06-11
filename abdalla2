@@ -34,3 +34,18 @@ git merge dev
 
 
 
+
+git tag -a v1.4 -m "creating tag annotated"
+git push origin v1.4
+
+
+#remove tags
+1)localy
+	git tag -d v1.4
+
+2) remotly
+	git push origin --delete v1.4
+
+
+
+
