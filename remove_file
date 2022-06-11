@@ -1,0 +1,11 @@
+task githup from abdalla mohamed abdalla amer
+track python
+
+
+we can remove branches 
+
+1) localy
+	git branch -D dev
+
+2)remotly
+	git push origin :dev
